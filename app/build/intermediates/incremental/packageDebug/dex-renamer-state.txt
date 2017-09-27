@@ -1,0 +1,7 @@
+#Wed Sep 27 16:28:26 ICT 2017
+base.0=/Users/phokchanrithisak/Desktop/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_71c757f4f71ba0d07f013bc39023e3380c5f24db
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/phokchanrithisak/Desktop/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_44d1d861be348f7f6ebbda5c60f07bd7337011fd/classes.dex
+base.1=/Users/phokchanrithisak/Desktop/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_44d1d861be348f7f6ebbda5c60f07bd7337011fd
+file.0=/Users/phokchanrithisak/Desktop/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_71c757f4f71ba0d07f013bc39023e3380c5f24db/classes.dex

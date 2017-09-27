@@ -1,0 +1,4 @@
+#Wed Sep 27 16:28:26 ICT 2017
+base.0=/Users/phokchanrithisak/Desktop/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_f5ff4ff9b669ac0d4647126530296dc4463c2fd2
+renamed.0=classes.dex
+file.0=/Users/phokchanrithisak/Desktop/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_f5ff4ff9b669ac0d4647126530296dc4463c2fd2/classes.dex
